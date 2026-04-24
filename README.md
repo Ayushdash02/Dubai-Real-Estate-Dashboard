@@ -73,13 +73,13 @@ PropertyAge = 2025 - [YearBuilt]
 ## 6. Dashboard Preview
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](Home.jpg)
 
 ### Overview Page
-![Overview](screenshots/overview.png)
+![Overview](Overview.jpg)
 
 ### Insights Page
-![Insights](screenshots/insights.png)
+![Insights](Insights.jpg)
 
 ---
 
